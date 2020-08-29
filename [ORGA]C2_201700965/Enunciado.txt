@@ -1,0 +1,8 @@
+Realizar una unidad comparativa, toma en cuenta lo siguiente:
+* Dos entradas (A y B)
+* No pueden usar logicstate para las entradas
+* Cada numero es de 4 bits
+* Se realiza en grupos o individual si lo desean .
+* Se califica el otro sábado en el horario de laboratorio
+* Todos los integrantes deben de estar presentes. (Tendrán que encender la cámara) 
+* Pueden utilizar los componentes 74ls85, 74ls47 o 74ls48, Display ánodo o cátodo. 
