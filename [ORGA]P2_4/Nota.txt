@@ -1,0 +1,4 @@
+En la parte de mostrar las dos EE en los displays, unicamente se apagan, para poder realizarlo deberia de utilizarse el pin BI/RBO del decodificador 7448
+poniendola en cero y colocar la configuracion necesaria para poder colocar la E en cada display directamente en las entradas del mismo, sin utilizar las entradas del 
+decodificador, ya que este pin hace que la transmision de datos de las entradas se decodifique al display, por lo tanto si se apaga estas entradas no afectaran
+la visualizacion en el display.
